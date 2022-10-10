@@ -21,3 +21,11 @@ print(X)
 print(list(y))
 ## [0, 1, 2, 3, 4]
 ```
+
+- Scikit will split your data for you
+
+- Makes training very simple.
+
+### Selecting Algorithm 
+
+![](scikit_algo_selection_map.png)
